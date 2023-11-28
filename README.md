@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyungBin's%20Github%20!&fontSize=90" />
-    
+<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MyungBin's%20Github%20!&fontSize=90" />
+</div>
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <div align=center>
