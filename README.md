@@ -38,7 +38,7 @@
   <br>
 
 <h3><strong>🌈Follow Me🌈</strong></h3>
-  <a href="[https://bow-feeling-b78.notion.site/HOME-0acf42ce888242be8015a588dcea8658?pvs=4](https://mbinijo.notion.site/Study-Notion-9b96d34116874ba5aa021ee61bf1f3c6?pvs=4)">
+  <a href="https://mbinijo.notion.site/Study-Notion-9b96d34116874ba5aa021ee61bf1f3c6?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
